@@ -54,4 +54,4 @@ Meta-analysis, SP 2016
 - Total excluded from the 13 coded: 3
 	- Talmi 2013
 	- Wu 2011
-	- Fishman 2013	
+	- Fishman 2013
